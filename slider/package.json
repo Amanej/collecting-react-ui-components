@@ -1,0 +1,17 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel demo.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.23.0",
+    "rc-slider": "^8.6.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
